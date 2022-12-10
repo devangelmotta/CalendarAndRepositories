@@ -78,7 +78,7 @@
     "cors": "^2.8.5",
     "cross-env": "5.2.0",
     "env-cmd": "^10.0.1",
-    "express": "4.16.4",
+    "express": "4.17.3",
     "fontfaceobserver": "2.1.0",
     "graphql-tag": "^2.10.1",
     "history": "4.9.0",
